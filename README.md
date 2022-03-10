@@ -1,31 +1,23 @@
-# Create React App
+# YouTube Russia
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+Всем привет и я начал разрабатывать новую программу, которая будет заменой нашему YouTube.
+На самом деле я нехотел делать клон YouTube, но как только я увидел, что его закрывают в нашей россии...
 
-## Deploy Your Own
+## Информация
 
-Deploy your own Create React App project with Vercel.
+Разработка может быть очень долгой, но пока что программа будет на андроид, на она будет в виде сайта на React App!
+В программе на андроид будет запускаться сам сайт, по этому проблем не должно быть в разработке.
+К плюсу у меня есть свои дела, по этому я всю разработку разделю на несколько этапов!
+После того как я выполню этап, я просто поставлю этот смаил: ✔️
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+### Этап 1 - Подготовка программы на андроид
+### Этап 2 - Начало разработки в React app
+### Этап 3 - Подключение Firebase
+### Этап 4 - Разработка
 
-_Live Example: https://create-react-template.vercel.app/_
+## Дополнительно
 
-## Available Scripts
+Этот список этапов будет пополняться, программу на андроид или ссылку на программу будут сдесь!
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes. You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+Ссылка на Android программу: [Пока нет ссылки...]()
+Ссылка на сайт: [Перейти](https://yt-rus-gl6e.vercel.app/)
